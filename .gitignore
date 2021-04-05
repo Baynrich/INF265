@@ -1,0 +1,9 @@
+*.jpg
+*.jpeg
+*.png
+*.tar.gz
+*.csv
+*/MNIST/
+*/CIFAR10/
+*/.git/
+*.DS_STORE
